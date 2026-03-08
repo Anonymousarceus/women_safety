@@ -218,12 +218,3 @@ The app opens on `http://localhost:5173`.
 
 ---
 
-## Screenshots
-
-> Add screenshots of the Dashboard, Safety Map, SOS Alert, Journey Tracking, and Fake Call screens here.
-
----
-
-## License
-
-This project is built for educational purposes.
